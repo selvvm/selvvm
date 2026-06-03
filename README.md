@@ -1,40 +1,45 @@
-<h1 align="center">Hi 👋, I'm Mariselvam</h1>
-<h3 align="center">🚀 Software Engineer | 4+ years building scalable backends & AI-powered products</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://www.esds.co.in/blog/wp-content/uploads/2019/05/desk.gif">
+# `mariselvam.kannan`
 
-- 💬 Ask me about **Backend Development & AI**  
-- 📫 Reach me at **mariselvamkannanwork@gmail.com**
+**Software Engineer** · 4+ years building scalable backends & AI-powered products
 
----
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/selvvm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariselvam-kannan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/mariselvam10)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:mariselvamkannanwork@gmail.com)
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/selvvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selvvm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mariselvam-kannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariselvam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mariselvam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mariselvam10" height="30" width="40" /></a>
-</p>
+</div>
 
 ---
 
-<h3 align="left">🛠️ Languages:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a> 
-</p>
+```python
+{
+  "role"      : "Software Engineer",
+  "experience": "4+ years",
+  "focus"     : ["Scalable Backends", "AI-powered Products"],
+  "ask_me"    : ["Backend Development", "AI"],
+  "contact"   : "mariselvamkannanwork@gmail.com"
+}
+```
 
 ---
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=selvvm&" alt="selvvm" />
-</p>
+### 🛠 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selvvm&theme=github-dark-blue&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvvm&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+</div>
